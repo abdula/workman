@@ -1,0 +1,30 @@
+{
+  "name": "req-repl",
+  "version": "0.0.0",
+  "description": "Request-Replay",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "mocha --recursive --colors ./tests/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abdula/req-repl"
+  },
+  "devDependencies": {
+    "mocha": "~1.18.2",
+    "should": "~3.3.1"
+  },
+  "keywords": [
+    "req-repl",
+    "message",
+    "event",
+    "handler"
+  ],
+  "author": "Ivan Maksymenko ivanmaximenko@gmail.com",
+  "bugs": {
+    "url": "https://github.com/abdula/req-repl/issues"
+  },
+  "homepage": "https://github.com/abdula/req-repl",
+  "dependencies": {
+  }
+}
